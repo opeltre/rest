@@ -1,0 +1,15 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "serve files",
+  "main": "main.js",
+  "dependencies": {
+    "express-http-proxy": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo salut"
+  },
+  "author": "",
+  "license": "ISC"
+}
